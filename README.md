@@ -153,23 +153,27 @@ projeto_calculadora/
 # 9. Print dos testes
 
 - Teste antes da refatoração:
-![Teste 1](/images/testes/teste.jpg)
+  
+![Teste 1](images/testes/teste.jpg)
 
 - Teste depois da refatoração:
-![Teste 2](/images/testes/teste-refatorado.jpg)
+  
+![Teste 2](images/testes/teste-refatorado.jpg)
 
 ---
 
 # 10. Print do JavaDoc
 
 - JavaDoc da classe Calculadora:
-![calculadora 1](/images/javadoc/JavaDoc-Calc-1.jpg)
-![calculadora 2](/images/javadoc/JavaDoc-Calc-2.jpg)
-![calculadora 3](/images/javadoc/JavaDoc-Calc-3.jpg)
+  
+![calculadora 1](images/javadoc/JavaDoc-Cacl-1.jpg)
+![calculadora 2](images/javadoc/JavaDoc-Calc-2.jpg)
+![calculadora 3](images/javadoc/JavaDoc-Cacl-3.jpg)
 
 - JavaDoc da classe TesteCalculadora:
-![teste calculadora 1](/images/javadoc/JavaDoc-Test-1.jpg)
-![teste calculadora 2](/images/javadoc/JavaDoc-Test-2.jpg)
+  
+![teste calculadora 1](images/javadoc/JavaDoc-Test-1.jpg)
+![teste calculadora 2](images/javadoc/JavaDoc-Test-2.jpg)
 
 ---
 
